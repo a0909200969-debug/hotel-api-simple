@@ -1,5 +1,25 @@
-﻿__pycache__/
+﻿# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
 venv/
 env/
+
+# 資料庫
 *.db
+*.sqlite3
+
+# 作業系統
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日誌
+*.log
